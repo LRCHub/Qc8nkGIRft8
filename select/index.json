@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Static",
+  "base_artist": "FLAVOR FOLEY",
+  "createdAt": "2026-02-13T12:22:57.103274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Static Electricity",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Static_Electricity_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Static Age",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_The_Static_Age_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "After Dark (feat. Static Major & Ty Dolla $ign)",
+      "artist": "Drake feat. Static Major & Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/03_After_Dark_(feat._Static_Major_&_Ty_Dolla_$ign)_Drake_feat._Static_Major_&_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After Dark (feat. Static Major & Ty Dolla Sign)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_After_Dark_(feat._Static_Major_&_Ty_Dolla_Sign)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Distortion to Static (Black Thought Mix)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/05_Distortion_to_Static_(Black_Thought_Mix)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lollipop (Feat. Static Major)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/06_Lollipop_(Feat._Static_Major)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "X-Static Process",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/07_X-Static_Process_Madonna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "X-Static Process",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/08_X-Static_Process_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Came to Bring The Pain (featuring Ludacris, Static & Tity Boi)",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/09_I_Came_to_Bring_The_Pain_(featuring_Ludacris,_Static_&_Tity_Boi)_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Static",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/10_Static_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loose Rap (feat. Static)",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/11_Loose_Rap_(feat._Static)_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Renegade - feat. Static Revenger",
+      "artist": "Wynter Gordon",
+      "has_synced": false,
+      "path": "select/12_Renegade_-_feat._Static_Revenger_Wynter_Gordon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Static",
+      "artist": "Sepiamusic",
+      "has_synced": false,
+      "path": "select/13_Static_Sepiamusic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Static",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": false,
+      "path": "select/pl_01_Static_FLAVOR_FOLEY.txt"
+    }
+  ]
+}
